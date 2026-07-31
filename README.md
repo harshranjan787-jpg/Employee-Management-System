@@ -18,3 +18,6 @@ A responsive Employee Management System built using HTML, CSS and JavaScript.
 - CSS3
 - JavaScript
 - Local Storage
+## Screenshot
+
+![Employee Management System](screenshot.png)
